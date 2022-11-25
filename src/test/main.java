@@ -7,5 +7,9 @@ public class main {
 		System.out.println("test1");
 		System.out.println("test2");
 	}
+	
+	public void bug() {
+		System.out.println("dddd");
+	}
 
 }
